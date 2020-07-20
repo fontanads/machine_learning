@@ -1,7 +1,5 @@
-
 import nltk
 import itertools
-
 
 def my_word_tokenizer(s,tag_start='<s>',tag_end='</s>'):
     s_tokens = nltk.word_tokenize(s) # initial tokenization
