@@ -21,3 +21,23 @@ Feel free to concact me if you have any questions or if you wish to colaborate o
 ### An Introduction to Image Processing with Convolutional Neural Networks
 
 [ :orange_book: Check the notebook](./pytorch_labs/Computer_Vision_Intro_com_PyTorch.ipynb)
+
+## [Communications and Signal Processing](./comm_labs/)
+
+
+### Single-user multidimensional modulation system over fading channels
+
+[:blue_book: Check the notebook](./comm_labs/su_mdm_systems.ipynb)
+
+## [NLP Labs](.//nlp_labs/)
+
+:construction: Work in progress.
+
+## [Competitions]()
+
+### Primeira Imersão de Ciência de Dados da Alura Cursos Online
+
+[:green_book: ](./pytorch_labs/quarentena_dados_alura)
+
+
+
