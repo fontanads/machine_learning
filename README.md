@@ -37,7 +37,9 @@ Feel free to concact me if you have any questions or if you wish to colaborate o
 
 ### Primeira Imersão de Ciência de Dados da Alura Cursos Online
 
-[:green_book: ](./pytorch_labs/quarentena_dados_alura)
+Local competition promoted by [Alura Cursos Online](https://www.alura.com.br/). The challenge was to predict the score of Portuguese Language tests based on the score on other subjects of the National Exam of High School students. I have used PyTorch to create a simple neuralnetwork (only dense hidden layers and ReLU activation functions) to estimte regression value for the score. It did not win the competition, but it was a nice study case.
+
+[:green_book: Check the notebook](./pytorch_labs/quarentena_dados_alura)
 
 
 
