@@ -6,7 +6,7 @@ I will post some codes here while I study and evolve in the use of Python for ML
 
 Feel free to concact me if you have any questions or if you wish to colaborate on something.
 
-:mailbox_with_mail: fontana &#64; gmail . com 
+:mailbox_with_mail: fontanads &#64; gmail . com 
 
 ## [PyTorch Labs](./pytorch_labs/)
 
