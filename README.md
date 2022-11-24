@@ -29,10 +29,6 @@ Feel free to concact me if you have any questions or if you wish to colaborate o
 
 [:blue_book: Check the notebook](./comm_labs/su_mdm_systems.ipynb)
 
-## [NLP Labs](.//nlp_labs/)
-
-:construction: Work in progress.
-
 ## [Competitions]()
 
 ### Primeira Imersão de Ciência de Dados da Alura Cursos Online
